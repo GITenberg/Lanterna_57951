@@ -1,0 +1,25 @@
+_repo: Lanterna_57951
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Palazzeschi, Aldo
+    aliases:
+    - Palazzeschi, A. (Aldo)
+    - Giurlani, Aldo
+    birthdate: 1885
+    deathdate: 1974
+    gutenberg_agent_id: '44974'
+    url: http://www.gutenberg.org/2009/agents/44974
+description: ''
+gutenberg_issued: '2018-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57951'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Lanterna
+url: http://www.gutenberg.org/ebooks/57951
